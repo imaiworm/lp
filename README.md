@@ -24,7 +24,7 @@ This web-based platform showcases the latest trailers for movies, games, and ani
 
 ![Demo Screenshot](./src/images/screenshot.png)
 
-👉 **Live Demo: https://imaiworm.github.io/first-landed-page/**
+👉 **Live Demo: https://imaiworm.github**
 
 ---
 
